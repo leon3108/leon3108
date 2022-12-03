@@ -1,15 +1,19 @@
+<!-- mettre une image de présentation-->
+
 # :man: About me
 
 I am a software engineering at Epitech Lyon in France, I am in my third years of study. I'm open to any opportunity 
 
 
 # Currently working on
+<!-- choisir une taille d'image et la garder pour toutes les images + mettre un border-radius -->
 ### <a href="https://github.com/leon3108/ecommerce-product-page-main">ecommerce-product-page</a>
 showcase site, Build with Html, CSS and ReactJs
 <p align="center">
     <a href="https://github.com/leon3108/ecommerce-product-page-main"><img src="./desktop-design.jpg" width="600"></a>
 </p>
 
+<!-- emoji -->
 # Skills
 
 <table align="center">
@@ -58,7 +62,7 @@ showcase site, Build with Html, CSS and ReactJs
 	</tbody>
 </table>
 
-
+<!-- emoji -->
 # Hackaton with <a href="https://www.starton.io/">Starton</a>
 
 <a href="https://github.com/clement4saunier/FUNDSARESAFE"><font size="5" style="font-weight:700">QuickStarter</font></a>, may 2021, 3<sup>rd</sup> place
@@ -74,6 +78,7 @@ showcase site, Build with Html, CSS and ReactJs
 </p>
 
 
+<!-- emoji -->
 # Projects
 ### <a href="https://github.com/leon3108/ecommerce-product-page-main">ecommerce-product-page</a>
 
@@ -85,7 +90,7 @@ showcase site, Build with Html, CSS and ReactJs
     <a href="https://github.com/leon3108/ecommerce-product-page-main"><img src="./desktop-design.jpg" width="600"></a>
 </p>
 
-
+<!-- emoji -->
 # Contact
 
 <p align="center">
