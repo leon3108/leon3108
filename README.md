@@ -59,15 +59,15 @@ showcase site, Build with Html, CSS and ReactJs
 </table>
 
 
-# Hackaton with Starton
+# Hackaton with <a href="https://www.starton.io/">Starton</a>
 
-<a href="https://github.com/clement4saunier/FUNDSARESAFE">QuickStarter</a>, may 2021, 3<sup>rd</sup> place
+<a href="https://github.com/clement4saunier/FUNDSARESAFE"><font size="5" style="font-weight:700">QuickStarter</font></a>, may 2021, 3<sup>rd</sup> place
 <p align="center">
     <a href="https://github.com/clement4saunier/FUNDSARESAFE"><img src="./QuickstarterLogo512.png" width="100"></a>
     <p align="center">A crowd-funding platform entirely decentralized.</p>
 </p>
 
-<a href="https://github.com/clement4saunier/defacto-dapp">DeFacto</a>, november 2022, 2<sup>nd</sup> place
+<a href="https://github.com/clement4saunier/defacto-dapp"><font size="5" style="font-weight:700">DeFacto</font></a>, november 2022, 2<sup>nd</sup> place
 <p align="center">
     <a href="https://github.com/clement4saunier/defacto-dapp"><img src="./DeFactoLogo512.png" width="100"></a>
     <p align="center">Decentralized platform for incentivized journalism and fact-checking.</p>
