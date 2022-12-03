@@ -7,7 +7,7 @@ I am a software engineering at Epitech Lyon in France, I am in my third years of
 ### <a href="https://github.com/leon3108/ecommerce-product-page-main">ecommerce-product-page</a>
 showcase site, Build with Html, CSS and ReactJs
 <p align="center">
-    <a href="https://github.com/leon3108/ecommerce-product-page-main"><img src="./desktop-design.jpg" width="800"></a>
+    <a href="https://github.com/leon3108/ecommerce-product-page-main"><img src="./desktop-design.jpg" width="600"></a>
 </p>
 
 # Skills
