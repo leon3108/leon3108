@@ -20,8 +20,8 @@ showcase site, Build with Html, CSS and ReactJs
 	<thead>
 		<tr>
 			<th colspan="2"><b>Software Development</b></th>
-			<th colspan="1"><b>Front-end Web</b></th>
-			<th colspan="1"><b>Video Games</b></th>
+			<th colspan="2"><b>Front-end Web</b></th>
+			<th colspan="2"><b>Video Games</b></th>
 			<th colspan="1"><b>Organization</b></th>
 			<th colspan="1"><b>Design</b></th>
 			<th colspan="1"><b>Oriented Object Programming</b></th>
@@ -33,7 +33,9 @@ showcase site, Build with Html, CSS and ReactJs
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Haskell">Haskell</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">Javascript</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
+			<td align="center"><a href="https://www.raylib.com/index.html">Raylib</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
 			<td align="center"><a href="https://www.canva.com/">Canva</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
@@ -43,7 +45,9 @@ showcase site, Build with Html, CSS and ReactJs
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Assembly_language">Assembly</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
+			<td align="center"><a href="https://nextjs.org/">Next</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
+			<td align="center"><a href=""></a></td>
             <td align="center"><a href="https://www.notion.so/">Notion</a></td>
 			<td align="center"><a href="https://www.figma.com/">Figma</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Delphi_(software)">Delphi</a></td>
@@ -53,7 +57,9 @@ showcase site, Build with Html, CSS and ReactJs
 			<td align="center"><a href="https://cmake.org/">CMake</a></td>
 			<td align="center"><a href="https://www.python.org/">Python</a></td>
 			<td align="center"><a href="https://reactjs.org/">React</a></td>
+			<td align="center"><a href=""></a></td>
 			<td align="center"><a href="https://www.sfml-dev.org/">SFML</a></td>
+			<td align="center"><a href=""></a></td>
 			<td align="center"><a href="https://trello.com">Trello</a></td>
 			<td align="center"><a href=""></a></td>
 			<td align="center"><a href=""></a></td>
