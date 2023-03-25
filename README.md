@@ -5,13 +5,7 @@
 I am a software engineering at Epitech Lyon in France, I am in my third years of study. I'm open to any opportunity 
 
 
-# Currently working on
-<!-- choisir une taille d'image et la garder pour toutes les images + mettre un border-radius -->
-### <a href="https://github.com/leon3108/ecommerce-product-page-main">ecommerce-product-page</a>
-showcase site, Build with Html, CSS and ReactJs
-<p align="center">
-    <a href="https://github.com/leon3108/ecommerce-product-page-main"><img src="./desktop-design.jpg" width="600"></a>
-</p>
+
 
 <!-- emoji -->
 # Skills
@@ -84,17 +78,7 @@ showcase site, Build with Html, CSS and ReactJs
 </p>
 
 
-<!-- emoji -->
-# Projects
-### <a href="https://github.com/leon3108/ecommerce-product-page-main">ecommerce-product-page</a>
 
-##### Work In Progress
-
-showcase site, Build with Html, CSS and ReactJs
-
-<p align="center">
-    <a href="https://github.com/leon3108/ecommerce-product-page-main"><img src="./desktop-design.jpg" width="600"></a>
-</p>
 
 <!-- emoji -->
 # Contact
