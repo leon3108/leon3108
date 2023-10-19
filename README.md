@@ -2,7 +2,7 @@
 
 # :man: About me
 
-I am a software engineering at Epitech Lyon in France, I am in my third years of study. I'm open to any opportunity 
+I am a software engineering at Epitech Lyon in France, I am in my fourth years of study. I'm open to any opportunity 
 
 
 
@@ -15,6 +15,7 @@ I am a software engineering at Epitech Lyon in France, I am in my third years of
 		<tr>
 			<th colspan="2"><b>Software Development</b></th>
 			<th colspan="2"><b>Front-end Web</b></th>
+			<th colspan="1"><b>Back-end Web</b></th>
 			<th colspan="2"><b>Video Games</b></th>
 			<th colspan="1"><b>Organization</b></th>
 			<th colspan="1"><b>Design</b></th>
@@ -28,6 +29,7 @@ I am a software engineering at Epitech Lyon in France, I am in my third years of
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Haskell">Haskell</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">Javascript</a></td>
+			<td align="center"><a href="https://supabase.com/">Supabase</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a></td>
 			<td align="center"><a href="https://www.raylib.com/index.html">Raylib</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
@@ -40,9 +42,10 @@ I am a software engineering at Epitech Lyon in France, I am in my third years of
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Assembly_language">Assembly</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
 			<td align="center"><a href="https://nextjs.org/">Next</a></td>
+			<td align="center"><a href="https://www.postgresql.org/">Postgres</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
 			<td align="center"><a href=""></a></td>
-            <td align="center"><a href="https://www.notion.so/">Notion</a></td>
+            		<td align="center"><a href="https://www.notion.so/">Notion</a></td>
 			<td align="center"><a href="https://www.figma.com/">Figma</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Delphi_(software)">Delphi</a></td>
 			<td align="center"><a href=""></a></td>
@@ -51,7 +54,8 @@ I am a software engineering at Epitech Lyon in France, I am in my third years of
 			<td align="center"><a href="https://cmake.org/">CMake</a></td>
 			<td align="center"><a href="https://www.python.org/">Python</a></td>
 			<td align="center"><a href="https://reactjs.org/">React</a></td>
-			<td align="center"><a href=""></a></td>
+			<td align="center"><a href="https://tailwindcss.com/">Tailwind</a></td>
+			<td align="center"><a href="https://www.mongodb.com/">MongoDb</a></td>
 			<td align="center"><a href="https://www.sfml-dev.org/">SFML</a></td>
 			<td align="center"><a href=""></a></td>
 			<td align="center"><a href="https://trello.com">Trello</a></td>
